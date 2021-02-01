@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Poppins';
+}
+p{
+    line-height: 32px;
+}
+body{
+    background-color: rgba(241, 250, 255, 0.685);
+}
+#side-menu{
+    width:100%;
+    height:550px;
+    margin-left:1145px;  
+    margin-top:50px;
+    padding-left:20px;
+    position: fixed;
+}
+#side-menu li {  
+    margin-bottom:20px;
+    padding-top: 20px;
+    padding-bottom:10px;
+    padding-left:20px;
+    margin-right:10px;
+   
+}
+#side-menu li a{
+    color:rgb(102, 101, 101);
+}
+#side-menu  li:hover{
+    background-color:rgba(241, 241, 241, 0.863);
+    padding-top: 20px;
+    padding-bottom:10px;
+    padding-left:20px;
+    border-radius:20px;
+}
+#container-simbolos{
+    width:80%;
+    margin-left:20px;
+    margin-top:20px;
+}
+#container-simbolos h1{
+    text-align:center;
+    color:blue;
+}
+#quetzal p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#quetzal img{
+    width:500px;
+    height:300px;
+    margin-top:40px;
+    margin-left:300px;
+    border-radius:30px;
+}
+
+
+#container-historia{
+    width:80%;
+    margin-left:20px;
+    margin-top:20px;
+}
+#container-historia h1{
+    text-align:center;
+    color:blue;
+}
+#history p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#history img{
+    width:500px;
+    height:300px;
+    margin-top:40px;
+    margin-right:20px;
+    border-radius:30px;
+    display:inline-block;
+}
+#container-territorio{
+    width:80%;
+    margin-left:20px;
+    margin-top:20px;
+}
+#container-territorio h1{
+    text-align:center;
+    color:blue;
+}
+#territorio p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#territorio img{
+    width:500px;
+    height:300px;
+    margin-top:40px;
+    margin-right:20px;
+    border-radius:30px;
+    margin-left:300px;
+}
+#container-departamentos{
+    width:80%;
+    margin-left:20px;
+    margin-top:50px;
+}
+#container-departamentos h1{
+    text-align:center;
+    color:blue;
+}
+#departamentos p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#departamentos ul{
+    width:100%;
+}
+#departamentos li{
+    margin-left:40px;
+    margin-top:10px; 
+    width:20%;
+    display: inline-block;
+}
+#departamentos img{
+    width:500px;
+    height:300px;
+    margin-top:50px;
+    margin-right:20px;
+    border-radius:30px;
+    margin-left:300px;
+}
+#container-lugares{
+    width:80%;
+    margin-left:20px;
+    margin-top:30px;
+    margin-bottom:20px;
+}
+#container-lugares h1{
+    text-align:center;
+    color:blue;
+}
+#lugares p{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+#lugares img{
+    width:500px;
+    height:300px;
+    margin-top:40px;
+    margin-right:20px;
+    border-radius:30px;
+    margin-left:300px;
+}
+
+footer{
+    background-color:black;
+    height:50px;
+}
+footer h2{
+    color:white;
+    margin-top:10px;
+    text-align:center;
+}
+
+
+
+
